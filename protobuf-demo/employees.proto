@@ -1,0 +1,12 @@
+//version
+syntax = "proto3";
+
+message Employee {
+ int32 id = 1; //serialization seq... this is how it maintains integrity of data when new fields added
+ string name = 2;
+ float salary = 3;
+}
+
+message Employee {
+  repeated Employee employees= 1;
+}

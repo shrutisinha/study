@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GameOfLifeFunctional" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java8/src/main/java/GameOfLifeFunctional" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java8/src/main/java/Java8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java8/src/main/java/java8" vcs="Git" />
+  </component>
+</project>

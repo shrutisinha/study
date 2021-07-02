@@ -1,0 +1,59 @@
+05:01:11.424 [main] ERROR Logger - Workshop General Log->PT0.002461S
+05:01:11.426 [main] ERROR Logger - Workshop Conditional Log->PT0.0005S
+05:01:11.426 [main] ERROR Logger - Workshop parameterized Log->PT0.000754S
+05:09:39.971 [main] INFO  Logger - Workshop Counter:1
+05:09:39.972 [main] INFO  Logger - Workshop Counter:2
+05:09:39.974 [main] INFO  Logger - Workshop Counter:3
+05:09:39.974 [main] INFO  Logger - Workshop Counter:4
+05:09:39.974 [main] INFO  Logger - Workshop Counter:5
+05:09:39.975 [main] INFO  Logger - Workshop Counter:6
+05:09:39.976 [main] INFO  Logger - Workshop Counter:7
+05:09:39.976 [main] INFO  Logger - Workshop Counter:8
+05:09:39.976 [main] INFO  Logger - Workshop Counter:9
+05:09:39.977 [main] INFO  Logger - Workshop Counter:10
+05:09:39.989 [main] INFO  Logger - Workshop Counter:1
+05:09:39.990 [main] INFO  LoggerTest - Workshop Counter1
+05:09:39.990 [main] INFO  Logger - Workshop Counter:2
+05:09:39.990 [main] INFO  LoggerTest - Workshop Counter2
+05:09:39.991 [main] INFO  Logger - Workshop Counter:3
+05:09:39.991 [main] INFO  LoggerTest - Workshop Counter3
+05:09:39.991 [main] INFO  Logger - Workshop Counter:4
+05:09:39.991 [main] INFO  LoggerTest - Workshop Counter4
+05:09:39.992 [main] INFO  Logger - Workshop Counter:5
+05:09:39.992 [main] INFO  LoggerTest - Workshop Counter5
+05:09:39.992 [main] INFO  Logger - Workshop Counter:6
+05:09:39.993 [main] INFO  LoggerTest - Workshop Counter6
+05:09:39.993 [main] INFO  Logger - Workshop Counter:7
+05:09:39.993 [main] INFO  LoggerTest - Workshop Counter7
+05:09:39.993 [main] INFO  Logger - Workshop Counter:8
+05:09:39.993 [main] INFO  LoggerTest - Workshop Counter8
+05:09:39.994 [main] INFO  Logger - Workshop Counter:9
+05:09:39.994 [main] INFO  LoggerTest - Workshop Counter9
+05:09:39.994 [main] INFO  Logger - Workshop Counter:10
+05:09:39.995 [main] INFO  LoggerTest - Workshop Counter10
+05:09:40.000 [main] INFO  Logger - Workshop Counter:1
+05:09:40.001 [main] INFO  Logger - Workshop Counter:2
+05:09:40.001 [main] INFO  Logger - Workshop Counter:3
+05:09:40.002 [main] INFO  Logger - Workshop Counter:4
+05:09:40.002 [main] INFO  Logger - Workshop Counter:5
+05:09:40.002 [main] INFO  Logger - Workshop Counter:6
+05:09:40.002 [main] INFO  Logger - Workshop Counter:7
+05:09:40.003 [main] INFO  Logger - Workshop Counter:8
+05:09:40.003 [main] INFO  Logger - Workshop Counter:9
+05:09:40.003 [main] INFO  Logger - Workshop Counter:10
+05:09:40.004 [main] INFO  Logger - Workshop Counter:1
+05:09:40.007 [main] INFO  Logger - Workshop Counter:2
+05:09:40.007 [main] INFO  Logger - Workshop Counter:3
+05:09:40.008 [main] INFO  Logger - Workshop Counter:4
+05:09:40.008 [main] INFO  Logger - Workshop Counter:5
+05:09:40.008 [main] INFO  Logger - Workshop Counter:6
+05:09:40.009 [main] INFO  Logger - Workshop Counter:7
+05:09:40.009 [main] INFO  Logger - Workshop Counter:8
+05:09:40.009 [main] INFO  Logger - Workshop Counter:9
+05:09:40.010 [main] INFO  Logger - Workshop Counter:10
+05:09:40.010 [main] ERROR Logger - Workshop General Log->PT0.016216S
+05:09:40.010 [main] ERROR Logger - Workshop Conditional Log->PT0.003669S
+05:09:40.011 [main] ERROR Logger - Workshop parameterized Log->PT0.006601S
+05:09:50.814 [main] ERROR Logger - Workshop General Log->PT0.004822S
+05:09:50.821 [main] ERROR Logger - Workshop Conditional Log->PT0.002266S
+05:09:50.822 [main] ERROR Logger - Workshop parameterized Log->PT0.001214S

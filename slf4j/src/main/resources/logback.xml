@@ -1,0 +1,50 @@
+<configuration>
+
+    <appender name="console-error" class="ch.qos.logback.core.ConsoleAppender">
+        <target>System.out</target>
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %mdc{app} %msg%n</pattern>
+        </encoder>
+    </appender>
+    <appender name="file-debug" class="ch.qos.logback.core.FileAppender">
+        <file>debugFile.txt</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>mylog.%d{yyyy-MM-dd}.log</fileNamePattern>
+        </rollingPolicy>
+        <append>true</append>
+        <!-- set immediateFlush to false for much higher logging throughput -->
+        <immediateFlush>true</immediateFlush>
+        <!-- encoders are assigned the type
+             ch.qos.logback.classic.encoder.PatternLayoutEncoder by default -->
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %mdc{app} %msg%n</pattern>
+        </encoder>
+    </appender>
+    <appender name="file-trace" class="ch.qos.logback.core.FileAppender">
+        <file>traceFile.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>mylog.%d{yyyy-MM-dd}.log</fileNamePattern>
+        </rollingPolicy>
+        <append>true</append>
+        <!-- set immediateFlush to false for much higher logging throughput -->
+        <immediateFlush>true</immediateFlush>
+        <!-- encoders are assigned the type
+             ch.qos.logback.classic.encoder.PatternLayoutEncoder by default -->
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %mdc{app} %msg%n</pattern>
+        </encoder>
+    </appender>
+    <root level="debug">
+        <appender-ref ref="file-debug"/>
+    </root>
+    <root level="trace">
+        <appender-ref ref="file-trace"/>
+    </root>
+    <root level="error">
+        <appender-ref ref="console-error"/>
+    </root>
+<!--    <root level="error">-->
+<!--        <appender-ref ref="file-error"/>-->
+<!--    </root>-->
+
+</configuration>

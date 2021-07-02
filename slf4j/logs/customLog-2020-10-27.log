@@ -1,0 +1,13 @@
+This is a message[info] 05:42:56.710 - Counter1[info] 05:42:56.710 - Counter2[info] 05:42:56.710 - Counter3[info] 05:42:56.710 - Counter4[info] 05:42:56.710 - Counter5[info] 05:42:56.710 - Counter6[info] 05:42:56.710 - Counter7[info] 05:42:56.710 - Counter8[info] 05:42:56.710 - Counter9[info] 05:42:56.710 - Counter10[error] 05:42:56.710 - General Log->PT0.014673S[error] 05:42:56.710 - Conditional Log->PT0.00075S[error] 05:42:56.710 - parameterized Log->PT0.001266S[info] 05:43:52.017 - Counter1
+[info] 05:43:52.017 - Counter2
+[info] 05:43:52.017 - Counter3
+[info] 05:43:52.017 - Counter4
+[info] 05:43:52.017 - Counter5
+[info] 05:43:52.017 - Counter6
+[info] 05:43:52.017 - Counter7
+[info] 05:43:52.017 - Counter8
+[info] 05:43:52.017 - Counter9
+[info] 05:43:52.017 - Counter10
+[error] 05:43:52.017 - General Log->PT0.008341S
+[error] 05:43:52.017 - Conditional Log->PT0.000501S
+[error] 05:43:52.017 - parameterized Log->PT0.000895S
